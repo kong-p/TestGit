@@ -1,6 +1,6 @@
 import jieba
 import os
-# ddd
+
 
 def readFile(path):
     with open(path, 'r', encoding='gb2312', errors='ignore') as file:
